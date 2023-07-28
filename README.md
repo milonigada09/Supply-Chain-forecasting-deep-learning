@@ -1,4 +1,4 @@
-# Sales-demand-forecasting-deep-learning
+# Supply-Chain-forecasting-deep-learning
 
 Problem Statement:
 1. Understanding sales trends to forecast future sales
